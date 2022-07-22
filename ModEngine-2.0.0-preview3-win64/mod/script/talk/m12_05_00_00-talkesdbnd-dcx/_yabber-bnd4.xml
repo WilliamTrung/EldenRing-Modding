@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bnd4>
+  <filename>m12_05_00_00.talkesdbnd.dcx</filename>
+  <compression>SekiroKRAK</compression>
+  <timestamp>07D7R6</timestamp>
+  <format>0x74</format>
+  <bigendian>False</bigendian>
+  <flag1>False</flag1>
+  <flag2>False</flag2>
+  <unicode>True</unicode>
+  <extended>0x04</extended>
+  <files>
+    <file>
+      <flags>0x40</flags>
+      <id>0</id>
+      <root>N:\</root>
+      <path>GR\data\INTERROOT_win64\script\talk\m12_05_00_00\t209101205.esd</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>1</id>
+      <root>N:\</root>
+      <path>GR\data\INTERROOT_win64\script\talk\m12_05_00_00\t301011205.esd</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>2</id>
+      <root>N:\</root>
+      <path>GR\data\INTERROOT_win64\script\talk\m12_05_00_00\t301101205.esd</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>3</id>
+      <root>N:\</root>
+      <path>GR\data\INTERROOT_win64\script\talk\m12_05_00_00\t705041205.esd</path>
+    </file>
+    <file>
+      <flags>0x40</flags>
+      <id>4</id>
+      <root>N:\</root>
+      <path>GR\data\INTERROOT_win64\script\talk\m12_05_00_00\t801291205.esd</path>
+    </file>
+  </files>
+</bnd4>
